@@ -1,6 +1,6 @@
 # Read me
 
-This Jupyter notebook will help aspiring data scientists learn and practice the necessary python code needed for many data science projects. Most of the material in this notebook is based on exercises that I completed from a course called [Master Machine Leanring](https://elitedatascience.com/machine-learning-masterclass) by EliteDataScience.com. I highly recommend this course for new data scientists or veteran data scientists who require a refresher. I use the notebook regularly, especially when I forget important NumPy or Pandas syntax. Enjoy!
+This Jupyter notebook will help aspiring data scientists learn and practice the necessary python code needed for many data science projects. Most of the material in this notebook is based on exercises that I completed from a course called [Master Machine Learning](https://elitedatascience.com/machine-learning-masterclass) by EliteDataScience.com. I highly recommend this course for new data scientists or veteran data scientists who require a refresher. I use the notebook regularly, especially when I forget important NumPy or Pandas syntax. Enjoy!
 
 ## Instructions
 - You can insert "scratch" code cells using **Insert > Insert Cell Below/Above** in the toolbar.
