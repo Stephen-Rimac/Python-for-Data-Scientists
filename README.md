@@ -9,3 +9,9 @@ This notebook will help aspiring data scientists learn and practice the necessar
 - A `project_files` folder accompanies the download from GitHub. It contains important  data needed for some of the analyses in the notebook.
 
 ## Table of Contents
+
+1. Python Basics
+2. Data Structures
+3. Flow and Functions
+4. NumPy
+5. Pandas
